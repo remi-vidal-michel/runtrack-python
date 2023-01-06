@@ -1,4 +1,4 @@
-w = (int(input("taile ? : ")))
+w = (int(input("taille ? : ")))
 h = w
 j = 0
 print("+", "-"*(w+1), "+")
